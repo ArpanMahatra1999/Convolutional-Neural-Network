@@ -1,5 +1,4 @@
 # Convolutional-Neural-Network
-
 Python code for identifying mnist images.
 
 Tools used:
